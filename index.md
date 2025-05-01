@@ -13,7 +13,9 @@ This lab is one that I am happy I was able to finish, because at my current leve
 Lab 10 
 ---
 
-hhhhhhhhh 
+This lab put labs 8 and 9 together. We open sate_demographics.csv which is a file of strings in the structure of 50x3 size matrices. We use stod() and stoi() which in the instructor led lab time I learn that stoi() and stod() are functions.
+
+This lab was one of the easier labs, but I consider it one of my favorite labs because I learned about the C++ language and it opened my eyes to what is possible with C++ and certain types of files.
 
 Lab 8 
 ---
