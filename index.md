@@ -9,8 +9,6 @@ Lab 11 Part 1
 
 The whole was great and I like that it was two parts because it was giving us the stidents more practice. Before this lab, my understanding of constructors was limited and much more basic. I knew I could associate specific variables to a constructor, but because of this lab I learned how to associate a function to a constructor, which is something I am going to look into over the summer.
 
-This lab is one that I am happy I was able to finish, because at my current level of knowledge there is a lot that I learned and still must review when it comes to the uses of constructors, and how to create one. We initialized the constructor with a simple accessor function, which gave use the ability to use the values that were given in the input file, and have a compartmented model. 
-
 https://github.com/cpsc-spring-2025/cpsc-120-lab-11-kevin-pablo-miguel 
 
 Lab 10 
