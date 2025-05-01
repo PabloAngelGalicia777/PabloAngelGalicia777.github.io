@@ -18,7 +18,7 @@ This lab put labs 8 and 9 together. We open sate_demographics.csv which is a fil
 
 This lab was one of the easier labs, but I consider it one of my favorite labs because I learned about the C++ language and it opened my eyes to what is possible with C++ and certain types of files.
 
-https://github.com/cpsc-spring-2025/cpsc-120-lab-10-aaron-pablo
+https://github.com/cpsc-spring-2025/cpsc-120-lab-10-aaron-pablo.git
 
 Lab 8 
 ---
@@ -27,4 +27,4 @@ This lab was great, we converted the strings of the command line, and only the a
 
 This lab was great for helping me practice and improve in using variables and vectors in the argument of the function being called, and also on how to transverse through a vertex.
 
-https://github.com/cpsc-spring-2025/cpsc-120-lab-08-pablo-and-aaron
+https://github.com/cpsc-spring-2025/cpsc-120-lab-08-pablo-and-aaron.git
